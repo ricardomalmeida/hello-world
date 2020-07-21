@@ -1,1 +1,1 @@
-# hello-world
+# Ficheiro editado. Primeiro TPC.
